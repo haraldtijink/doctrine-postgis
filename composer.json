@@ -1,5 +1,5 @@
 {
-    "name": "jsor/doctrine-postgis",
+    "name": "haraldtijink/doctrine-postgis",
     "description": "Spatial and Geographic Data with PostGIS and Doctrine.",
     "keywords": [
         "spatial",
